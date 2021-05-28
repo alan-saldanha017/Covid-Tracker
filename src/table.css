@@ -1,0 +1,17 @@
+.app__table {
+  overflow: scroll;
+  color: #6a5d5d;
+  border-collapse: collapse;
+}
+.app__table thead tr {
+  background-color: #000;
+  color: #fff;
+}
+
+.app__table td {
+  border: 1px solid #cdcdce;
+}
+
+.app__table tbody tr:nth-of-type(odd) {
+  background-color: #f3f2f8;
+}

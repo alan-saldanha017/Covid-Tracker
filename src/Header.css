@@ -1,0 +1,12 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  margin-bottom: 20px;
+}
+
+.header__dropdown .MuiSelect-outlined {
+  color: white;
+  border-radius: 8px;
+  border: 2px solid #cdcdce;
+}
